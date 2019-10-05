@@ -1,2 +1,2 @@
 # GPXViewer
-Ionic GPX Viewer
+Simple web GPX Viewer

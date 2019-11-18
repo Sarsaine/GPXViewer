@@ -2,6 +2,6 @@
     <div id="gpxviewermap"></div>
     <ion-button class="file-input" (click)="loadFile()">Charger un fichier
     </ion-button>
-    <input #fileInput type="file"
+    <input #fileInput type="file" class="hidden-input"
            (change)="handleFileInput($event.target.files)">
 </ion-content>
